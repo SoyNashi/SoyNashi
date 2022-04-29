@@ -1,9 +1,8 @@
-- 👋 Hola, me llamo @SoyNashi
-- 👀 Normalmene codifico webs pero aqui seguramente publique juegos gratis
-- 🌱 Visita mi web https://soynashi.tk
+# Nashi
+##### - 👋 Hola, me llamo @SoyNashi
+##### - 👀 Normalmene codifico webs pero aqui seguramente publique juegos gratis
+##### - 🌱 Visita mi web https://soynashi.tk
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoyNashi&show_icons=true&locale=en&layout=compact" alt="a" /></p>
 
@@ -12,3 +11,21 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyNashi&theme=dark" alt="a" /></p>
 
 
+
+## Donaciones 
+
+> Programo por diversión, pero tengo que ser capaz de mantenerme vivo y aunque no sea suficiente como para mi supervivencia, algo es algo y me puede ayudar a hacer más proyectos. Mis proyectos web tiene un tipo de monetización sin anuncios, que no rompen la vista de la web, pero me generan algo de ingresos. De los NFT no vendo nada, pero están ahí por si acaso se llegan a popularizar y alguien me lo compra. De todo lo otro no genero nada, pero tengo un PayPal por si alguna buena alma decide donar.
+<a href="https://paypal.me/soynashi" class="mt-5 button bg-indigo-lightest-10 fs-s3 white no-underline hover-opacity-100 hover-scale-up-1 ease-300">PayPal</a>
+
+## NFT
+
+> Si alguna cosa es la que me ha apoyado a hacer mis proyectos es la fe, y tengo mucha fe en que algo de lo que haga se consiga. Los NFT son algo complicados de entender y no me voy a poner a explicar su funcionamiento, breve resumen, los NFT son obras de arte (música, dibujos, fotos) encriptadas en una criptomoneda. He creado unos cuantos y los estoy vendiendo por OpenSea a ver si alguien ofrece algo.
+<iframe src="https://soynashi.tk/info/nft/index.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="100%" allowfullscreen></iframe>
+
+## Musica
+
+> También tengo como hobby hacer música, no soy muy bueno pero le voy pillando práctica. Te invito a mirar mi canal de youtube o mi cuenta de opensea para que puedas escuchar todas mis canciones y remixes.
+
+<iframe src="https://soynashi.tk/info/music/index.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="100%" allowfullscreen></iframe>
+
+<iframe src="https://soynashi.tk" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="100%" allowfullscreen></iframe>
